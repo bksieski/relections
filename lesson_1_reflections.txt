@@ -1,0 +1,13 @@
+1. how could having easy access to the entire history of a file make you are more efficient programmer in the long run?
+	It will be easier to track changes, find errors, and commit changes thus saving time.
+2. what do you think are the pros and cons of manually chossing when to create a commit, kike you do in Git, vs having versions automatically saved, like Google Docs does?
+	Until you learn to commit changes properly commits would be done incorrectly.  Such as saving too many changes or not saving at the appropriate times.
+3. Why do you think some version control systems, like Git, allow saving multiple files in on commit, while others, like Google Docs, treat each file separately?
+	Saving files in blocks allows to see changes done to files that are interlinked.
+4. How can you use the commands git log and git diff to view the history of files?
+	I can find specific commits then the changes within those commits.
+5. How might using version control make you more confident to make changes that could break something?
+	I can use git to checkout previous commits to find when/where a bug was introduced.
+6. Now that you have your workspace set up, what do you want to try using Git for?
+	I can now compare KOM lists for Strava KOM segments, this will make my searching of lost, missed or imporperly listed KOM.
+7.
