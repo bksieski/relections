@@ -6,4 +6,6 @@
 	When I am done editing a file, I stage it making it ready for a commit.		
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches would be good to have versions for adding new features such as languages.  The master branch would be working code, while a branch for another language could be separate until it is a working version.
-5.	
+5. How do the diagrams help you visualize the branch structure?
+	concepts represented visually are much easier to learn and understand.
+	
