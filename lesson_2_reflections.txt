@@ -8,4 +8,5 @@
 	Branches would be good to have versions for adding new features such as languages.  The master branch would be working code, while a branch for another language could be separate until it is a working version.
 5. How do the diagrams help you visualize the branch structure?
 	concepts represented visually are much easier to learn and understand.
-	
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	I am not able to merge because I am getting an error.
