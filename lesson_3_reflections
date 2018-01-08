@@ -2,3 +2,6 @@
     Remote repository would be useful if I am using multiple computers to work on a project.  The project would be accessible from any computer.
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	You might be using several computers, you might have logical changes that you want to sync, you might have another branch you want to sync with github.     
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork is a separate branch of the main "tree". Clone makes a duplicate of the fork.  Branches are different features being added, but can later be merged into the master branch.  I would clone a strava project, then make a clone of that project onto my local computer.  Then I would create branches to test new features without breaking existing production code.
+4.	
